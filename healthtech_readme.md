@@ -303,3 +303,7 @@ For questions, suggestions, or issues:
 ---
 
 **Note**: This system is designed for demonstration purposes. For production healthcare environments, ensure compliance with HIPAA, data encryption, proper authentication, and other regulatory requirements.
+
+
+
+Link to the pitch deck --> https://www.canva.com/design/DAGoWKaqJwc/9rpj0UcmpcQHetJ9ql5zxQ/edit
