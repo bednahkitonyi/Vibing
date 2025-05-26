@@ -845,3 +845,24 @@ h2::after {
         background: white;
     }
 }
+
+body.dark-mode {
+    background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+    color: #edf2f7;
+}
+body.dark-mode input,
+body.dark-mode select,
+body.dark-mode textarea {
+    background: rgba(45, 55, 72, 0.9);
+    color: white;
+}
+body.dark-mode .tab-content,
+body.dark-mode .header,
+body.dark-mode .nav-tabs,
+body.dark-mode .patient-card,
+body.dark-mode .appointment-card,
+body.dark-mode .reminder-card {
+    background: rgba(26, 32, 44, 0.8);
+    color: #edf2f7;
+}
+
